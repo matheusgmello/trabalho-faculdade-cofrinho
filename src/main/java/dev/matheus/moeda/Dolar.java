@@ -1,7 +1,7 @@
 package dev.matheus.moeda;
 
 public class Dolar extends Moeda {
-    private static final double TAXA_CONVERSAO = 5.8; // Taxa atual para conversão para Reais
+    private static final double TAXA_CONVERSAO = 6.0; // Taxa atual para conversão para Reais
 
     public Dolar(double valor) {
         super(valor);

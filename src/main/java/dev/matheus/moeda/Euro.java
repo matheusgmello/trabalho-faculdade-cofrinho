@@ -1,7 +1,7 @@
 package dev.matheus.moeda;
 
 public class Euro extends Moeda {
-    private static final double TAXA_CONVERSAO = 6.0; // Taxa de conversão para Reais
+    private static final double TAXA_CONVERSAO = 6.35;
 
     public Euro(double valor) {
         super(valor);
